@@ -22,13 +22,13 @@ const SamplePage = (props) => {
                   London-based floral designer Flora Fricker champions seasonal
                   British flowers and UK producers in her beautiful and
                   sustainable creations. This season, we worked with Flora to
-                  style Sunspel stores for Christmas, for which she produced
+                  style Shopada stores for Christmas, for which she produced
                   eye-catching sustainably sourced wreaths.
                 </p>
                 <p className={styles.blogParagraph}>
-                  Delaware limited liability company (The Sydney) collects
-                  personal information that you voluntarily provide when
-                  applying or registering for an account with The Upside or
+                  Delaware limited liability company collects personal 
+                  information that you voluntarily provide when applying 
+                  or registering for an account with The Upside or
                   making a purchase on The Upside website; www.theupside.com
                   (the Website).
                 </p>
@@ -56,7 +56,7 @@ const SamplePage = (props) => {
                 </div>
               </div>
               <div className={styles.content}>
-                <h2 className={styles.blogSubHeader}>2. Lorem ipsum</h2>
+                <h2 className={styles.blogSubHeader}> </h2>
                 <p className={styles.blogParagraph}>
                   Our Services, including but not limited to the registration of
                   an account with us or placing of an order, is not intended to
