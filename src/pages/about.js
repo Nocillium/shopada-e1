@@ -27,7 +27,7 @@ const AboutPage = (props) => {
         <Hero
           maxWidth={'900px'}
           image={'/about.png'}
-          title={`Sydney \n A British brand since 1860`}
+          title={`Shopada \n An E-commerce website built by pro-students`}
         />
 
         <div className={styles.navContainer}>
@@ -48,8 +48,9 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Founded in 1860, Sydney is an innovative British brand with a
-              contemporary edge. We make timeless everyday luxury clothing.
+              Founded in 2022, Shopada is an e-commerce website that can be deployed
+              thru mobile and desktop devices. It has good features that resembles
+              any online shopping websites.
             </p>
             <br />
             <br />
@@ -57,7 +58,7 @@ const AboutPage = (props) => {
               We created some of the world's first T-shirts and spent decades
               perfecting the feel of the cotton. Today we are the only brand
               that makes T-shirts in its own factory in the UK. And we do this
-              in the same factory we have occupied since 1937.
+              in the same factory we have occupied since 2022.
             </p>
           </div>
         </Container>
@@ -92,7 +93,7 @@ const AboutPage = (props) => {
             <h3>Sustainability</h3>
             <div id={'#sustainability'} ref={sustainabilityRef}>
               <p>
-                Our founder, Thomas Hill, had both an eye for quality and a
+                Our founder, Chester Cruz, had both an eye for quality and a
                 desire to innovate. As well as using the finest fibres such as
                 Sea Island cotton, cashmere and silk, he invented his own
                 fabrics. Sunspel continues this commitment to innovation today
