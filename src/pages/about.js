@@ -49,16 +49,26 @@ const AboutPage = (props) => {
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
               Founded in 2022, Shopada is an e-commerce website that can be deployed
-              thru mobile and desktop devices. It has good features that resembles
-              any online shopping websites.
+              thru mobile and desktop devices. Shopada is an international B2C fast 
+              fashion e-commerce company. The company mainly focuses on women's wear, 
+              but it also offers men's apparel, children's clothes, accessories, shoes,
+              bags and other fashion items. It has good features that resembles any 
+              online shopping websites. 
             </p>
             <br />
             <br />
             <p>
-              We created some of the world's first T-shirts and spent decades
-              perfecting the feel of the cotton. Today we are the only brand
-              that makes T-shirts in its own factory in the UK. And we do this
-              in the same factory we have occupied since 2022.
+              We created some of the world's famous T-shirts and spent years
+              perfecting the feel of the cotton. Shopada prides itself on 
+              offering on-trend styles catering to both young women and teens, 
+              that won’t break the bank. Shopada adheres to the concept that 
+              "everyone can enjoy the beauty of fashion." Shopada  is able to 
+              stay on top of the latest fashion trends from around the globe 
+              while rapidly bringing these styles to market. So whether you're 
+              searching for dresses and graphic tees or patterned blouses and 
+              chic swimwear, Shopada is the ultimate one-stop-shop for the modern
+              yet economical fashionista. It aims to promptly offer stylish quality 
+              products at appealing prices to every every user in the world.
             </p>
           </div>
         </Container>
@@ -72,11 +82,11 @@ const AboutPage = (props) => {
             <h3>Our Values</h3>
             <div ref={valuesRef}>
               <p>
-                Sunspel  produced some of the world's earliest T-shirts. In the
-                late 1800s the business made luxury tunics and undershirts from
+                Shopada produced some of the world's softest T-shirts. In the
+                late 2000s the business made luxury tunics and undershirts from
                 lightweight Sea Island cotton for export to the Far East and
                 other warm climates. While these garments initially had silk
-                buttoned plackets, these were removed in the early 1900s and
+                buttoned plackets, these were removed in the early 2000s and
                 replaced with simple bound necks to reduce manufacturing costs -
                 creating the T-shirt. We've supplied the world as the T-shirt
                 has evolved from underwear to outerwear, from symbol of youthful
