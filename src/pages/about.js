@@ -72,7 +72,7 @@ const AboutPage = (props) => {
             <h3>Our Values</h3>
             <div ref={valuesRef}>
               <p>
-                Sunspel pwet produced some of the world's earliest T-shirts. In the
+                Sunspel pwet mabaho produced some of the world's earliest T-shirts. In the
                 late 1800s the business made luxury tunics and undershirts from
                 lightweight Sea Island cotton for export to the Far East and
                 other warm climates. While these garments initially had silk
